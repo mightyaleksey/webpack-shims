@@ -1,7 +1,7 @@
 webpack-shims
 =============
 
-Small example to illustrate enormous bundle size.
+Small example to illustrate enormous bundle size. See the details at https://github.com/webpack-contrib/style-loader/issues/194
 
 
 ## description
